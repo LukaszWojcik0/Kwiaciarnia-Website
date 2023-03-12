@@ -258,5 +258,12 @@ main{
     font-size: 120%;
 }
 
+#contact > form > button:hover {
+
+    background-color: #233141;;
+    color: #dccebe;
+    cursor: pointer;
+}
+
 
 /* //////////last_projects///////////// */
